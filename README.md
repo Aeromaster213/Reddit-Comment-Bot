@@ -13,7 +13,7 @@ It is reccomended to create a new Reddit acount primarily for your bot.
 3. Set a name for your app
 4. Script type
 5. Give a description and an about url (optional).
-7. redirect url: [http://localhost:8080]
+7. redirect url: [localhost](http://localhost:8080)
 8. Note down the client id and secret
 
 #### config.py:
