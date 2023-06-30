@@ -28,4 +28,4 @@ It is reccomended to create a new Reddit acount primarily for your bot.
 ~~to be updated ~~
 
 ## Example
-
+![OPisRealBot](https://github.com/Aeromaster213/Reddit-Comment-Bot/blob/main/Botcomment.png?raw=true "One Piece is Real Bot")
