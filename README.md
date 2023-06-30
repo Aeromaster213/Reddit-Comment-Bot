@@ -27,6 +27,5 @@ It is reccomended to create a new Reddit acount primarily for your bot.
 
 ~~to be updated ~~
 
-## Run
+## Example
 
-run
